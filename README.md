@@ -1,6 +1,8 @@
 # Ex-2 IMPLEMENTATION-OF-SYMBOL-TABLE
 NAME: DEVA DHARSHINI I
 
+DATE : 14.02.2024
+
 REGISTER NO: 212223240026
 # AIM :
 To write a C program to implement a symbol table.
